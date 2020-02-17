@@ -14,7 +14,7 @@ python gabor_both_cos_sin_two_layers_add_noise.py
 Moreover you can test the robustness of the model by adding noise to images, where the noise obeys Gaussian distributuion with parameters mean and std. You can run the code as:
 python gabor_both_cos_sin_two_layers_add_noise.py --mean 1.0 --std 1.0
 
-More arguments can be found in the parser of the code.
+More training arguments can be found in the parser of the code.
 
 # References:
 https://github.com/pytorch/examples/tree/master/mnist
